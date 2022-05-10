@@ -15,6 +15,9 @@ Finding a job in Europe using Eures portal:
 * Preferebly tick the `Sector: ADMINISTRATIVE AND SUPPORT SERVICE ACTIVITIES`  
 * Preferable tags: `ICT application developer`
   * Information and communications technology (ICT)
+* Preferable tags: `ICT system administrator`
+  * Information and communications technology (ICT)
+
 
 https://ec.europa.eu/eures/portal/jv-se/home?pageCode=find_a_job
 
