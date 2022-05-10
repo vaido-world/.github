@@ -22,7 +22,7 @@ Finding a job in Europe using Eures portal:
 https://ec.europa.eu/eures/portal/jv-se/home?pageCode=find_a_job
 
 Example search:
-https://ec.europa.eu/eures/portal/jv-se/search?page=1&resultsPerPage=50&orderBy=BEST_MATCH&keywordsEverywhere=computer%20software%20developer%20&experience=none_required&positionScheduleCodes=fulltime&availableLanguages=en&positionOfferingCodes=directhire&euresFlagCodes=WITH
+https://ec.europa.eu/eures/portal/jv-se/search?page=1&resultsPerPage=50&orderBy=BEST_MATCH&keywordsEverywhere=computer%20software%20developer%20&positionScheduleCodes=fulltime&availableLanguages=en&positionOfferingCodes=directhire&euresFlagCodes=WITH&publicationPeriod=LAST_WEEK
 
 
 https://github.com/BoQsc
