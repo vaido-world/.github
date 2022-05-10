@@ -7,7 +7,7 @@ Visual Studio Code | Won't use it again. Frontend is browser-like. Written in Ja
   
 Finding a job in Europe using Eures portal:  
 * Use search keywords `computer software developer`, ` scientist engineer`,  `IT Assistant`, `IT Systems Administrator`  
-* Tick the `English`  
+* Tick the `Language of the job vacancy: English`  
 * Tick the `Work schedule: Full-time`  
 * Preferebly tick the `EURES flag: With EURES flag`  
 * Preferebly tick the `Sector: INFORMATION AND COMMUNICATION`  
