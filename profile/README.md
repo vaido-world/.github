@@ -13,11 +13,12 @@ Finding a job in Europe using Eures portal:
 * Preferebly tick the `Sector: INFORMATION AND COMMUNICATION`  
 * Preferebly tick the `Sector: PROFESSIONAL, SCIENTIFIC AND TECHNICAL ACTIVITIES`  
 * Preferebly tick the `Sector: ADMINISTRATIVE AND SUPPORT SERVICE ACTIVITIES`  
-* Preferable tags: `ICT application developer`
+* Preferable tag: `ICT application developer`
   * Information and communications technology (ICT)
-* Preferable tags: `ICT system administrator`
+* Preferable tag: `ICT system administrator`
   * Information and communications technology (ICT)
-* Preferable contract type: `Direct Hire`
+* Preferebly `contract type: Direct Hire`
+* Preferebly `Publication date: Last week`
 
 https://ec.europa.eu/eures/portal/jv-se/home?pageCode=find_a_job
 
