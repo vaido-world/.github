@@ -17,7 +17,7 @@ Finding a job in Europe using Eures portal:
   * Information and communications technology (ICT)
 * Preferable tags: `ICT system administrator`
   * Information and communications technology (ICT)
-
+* Preferable contract: `Direct Hire`
 
 https://ec.europa.eu/eures/portal/jv-se/home?pageCode=find_a_job
 
