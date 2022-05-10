@@ -13,7 +13,7 @@ Finding a job in Europe using Eures portal:
 * Preferebly tick the `Sector: INFORMATION AND COMMUNICATION`  
 * Preferebly tick the `Sector: PROFESSIONAL, SCIENTIFIC AND TECHNICAL ACTIVITIES`  
 * Preferebly tick the `Sector: ADMINISTRATIVE AND SUPPORT SERVICE ACTIVITIES`  
-
+* Preferable tags: `Information and communications technology (ICT)`
 
 https://ec.europa.eu/eures/portal/jv-se/home?pageCode=find_a_job
 
