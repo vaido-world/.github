@@ -11,6 +11,9 @@ Finding a job in Europe using Eures portal:
 * Tick the `Work schedule: Full-time`  
 * Preferebly tick the `EURES flag: With EURES flag`  
 * Preferebly tick the `Sector: INFORMATION AND COMMUNICATION`  
+* Preferebly tick the `Sector: PROFESSIONAL, SCIENTIFIC AND TECHNICAL ACTIVITIES`  
+* Preferebly tick the `Sector: ADMINISTRATIVE AND SUPPORT SERVICE ACTIVITIES`  
+
 
 https://ec.europa.eu/eures/portal/jv-se/home?pageCode=find_a_job
 
