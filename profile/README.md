@@ -20,10 +20,10 @@ Finding a job in Europe using Eures portal:
 * Preferebly `Contract type: Direct Hire`
 * Preferebly `Publication date: Last week`
 
-https://ec.europa.eu/eures/portal/jv-se/home?pageCode=find_a_job
-
 Example search:
 https://ec.europa.eu/eures/portal/jv-se/search?page=1&resultsPerPage=50&orderBy=BEST_MATCH&keywordsEverywhere=computer%20software%20developer%20&positionScheduleCodes=fulltime&availableLanguages=en&positionOfferingCodes=directhire&euresFlagCodes=WITH&publicationPeriod=LAST_WEEK
+
+https://ec.europa.eu/eures/portal/jv-se/home?pageCode=find_a_job
 
 
 https://github.com/BoQsc
