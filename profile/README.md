@@ -3,7 +3,7 @@
 These are my open personal notes.
 
 Useless software:  
-Visual Studio Code | Won't use it again. Frontend is browser-like. Written in JavaScript using Electron framework.
+**Visual Studio Code** | Won't use it again. Frontend is browser-like. Written in JavaScript using Electron framework.
   
 Finding a job in Europe using Eures portal:  
 * Use search keywords `computer software developer`, ` scientist engineer`,  `IT Assistant`, `IT Systems Administrator`  
