@@ -3,7 +3,7 @@
 You can contact me or start a discussion on any topic here:  
 https://github.com/orgs/vaido-world/discussions
 
-
+---
 These are my open personal notes.
 
 ### Useless software:  
