@@ -35,3 +35,9 @@ https://github.com/vaido-world/Virtual-Private-Server
 It's better to redirect `vaido.world` domain to <https://vaido-world.github.io/>, in case the `vaido.world` domain expires.  
 It is also better for keeping a more permanent links and is more reliable way.  
 https://github.com/vaido-world/NameCheap-domain-notes  
+
+### New General GitHub Discussions Setup 
+For Contacting and answering questions Organisational wide.
+https://github.com/orgs/vaido-world/discussions
+
+Target Repository: https://github.com/vaido-world/vaido-world-github-discussions
