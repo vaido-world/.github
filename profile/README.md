@@ -1,6 +1,6 @@
 ## Welcome to Vaido World
 
-You can start a discussion on any topic here:  
+You can contact me or start a discussion on any topic here:  
 https://github.com/orgs/vaido-world/discussions
 
 
