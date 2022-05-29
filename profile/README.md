@@ -32,6 +32,6 @@ https://github.com/BoQsc
 https://github.com/vaido-world/Virtual-Private-Server
 
 ### Domain Management Notes
-It's better to redirect `vaido.world` domain to <https://vaido-world.github.io/>, in case the vaido.world domain expires.  
+It's better to redirect `vaido.world` domain to <https://vaido-world.github.io/>, in case the `vaido.world` domain expires.  
 It is also better for keeping a more permanent links and is more reliable way.  
 https://github.com/vaido-world/NameCheap-domain-notes  
