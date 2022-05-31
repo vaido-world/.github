@@ -49,3 +49,6 @@ Target Repository: https://github.com/vaido-world/vaido-world-github-discussions
 
 ### Cleaning Cache for a specific URL using Google Chrome Dev Tools
 https://www.ryadel.com/en/clear-google-chrome-redirect-cache-for-single-url-page-howto
+
+### Notes on migrating from Swedbank in Europe
+https://www.swedbank.com/about-swedbank/organisation/our-markets.html
