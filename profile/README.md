@@ -45,3 +45,7 @@ For Contacting and answering questions Organisational wide.
 https://github.com/orgs/vaido-world/discussions
 
 Target Repository: https://github.com/vaido-world/vaido-world-github-discussions
+
+
+### Cleaning Cache for a specific URL usign Google Chrome Dev Tools
+https://www.ryadel.com/en/clear-google-chrome-redirect-cache-for-single-url-page-howto/#:~:text=Press%20SHIFT%2BCTRL%2BI%20to,address%20bar%20and%20press%20Enter.
