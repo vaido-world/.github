@@ -6,6 +6,10 @@ https://github.com/orgs/vaido-world/discussions
 ---
 These are my open personal notes.
 
+### Useful software:
+https://hovancik.net/stretchly/
+cross-platform app that reminds you to take breaks when working on your computer.
+
 ### Useless software:  
 **Visual Studio Code** | Won't use it again. Frontend is browser-like. Written in JavaScript using Electron framework.
   
