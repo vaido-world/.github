@@ -67,5 +67,6 @@ https://www.swedbank.com/about-swedbank/organisation/our-markets.html
 ![image](https://user-images.githubusercontent.com/21064622/171434483-48cab7ba-2394-4ff0-b05d-5d2fcc779a34.png)
 </details>
 
-
+### Programming languages to use
+C#, Java, D Language. Some pure JavaScript.
 
