@@ -22,7 +22,7 @@ graph TD
   A[Client] --> B[Load Balancer]
   B --> C[Server01]
   B --> D[Server02]
-  click A "http://www.github.com](https://github.com/BoQsc" "This is a link"
+  click A "https://github.com/BoQsc" "This is a link"
   style A fill:#00758f
   linkStyle default color:#0000FF
 ```
