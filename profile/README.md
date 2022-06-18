@@ -24,9 +24,7 @@ These are my open personal notes.
 ### [🗜 Virtual Private Server](https://github.com/vaido-world/Virtual-Private-Server)
 
 
-### [🚵🏽‍♂️ Answers about living in EU](https://europa.eu/youreurope/index_en.htm)
-
-  
+### [🚵🏽‍♂️ About living in EU](https://europa.eu/youreurope/index_en.htm)
 
 <details>
   <summary><h3> 👨🏼‍🏫 Finding a job in Europe using Eures portal:</h3></summary>
