@@ -73,3 +73,15 @@ https://www.swedbank.com/about-swedbank/organisation/our-markets.html
 ### Programming languages to use
 C#, Java, D Language. Some pure JavaScript.
 
+### Search in the same folder on Windows 10 using File Explorer
+```
+.gif -folder:"Desktop\*"
+.webp -folder:"Desktop\*"
+.svg -folder:"Desktop\*"
+.ove -folder:"Desktop\*"
+.mp4 -folder:"Desktop\*"
+.png -folder:"Desktop\*"
+.jpeg -folder:"Desktop\*"
+.ove -folder:"Desktop\*"
+.xcf -folder:"Desktop\*"
+```
