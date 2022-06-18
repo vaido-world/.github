@@ -72,9 +72,9 @@ https://www.ryadel.com/en/clear-google-chrome-redirect-cache-for-single-url-page
 https://www.swedbank.com/about-swedbank/organisation/our-markets.html
 
 
-### Minimum wage in Lithuania
+
 <details>
-  <summary>Spoiler</summary>
+  <summary><h3>Minimum wage in Lithuania</h3></summary>
   
 ![image](https://user-images.githubusercontent.com/21064622/171434364-270f0f68-11a9-4523-b5f3-1495067abf18.png)
 ![image](https://user-images.githubusercontent.com/21064622/171434420-4d140bea-3a8a-4b1b-bd00-0fb7dbbab9a0.png)
