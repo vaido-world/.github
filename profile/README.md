@@ -19,7 +19,7 @@ These are my open personal notes.
 
 ```mermaid
 graph TD
-  A[Personal GitHub] --> B[Load Balancer]
+  A["🕵🏼 Personal GitHub"] --> B[Load Balancer]
   B --> C[Server01]
   B --> D[Server02]
   click A "https://github.com/BoQsc" "This is a link"
@@ -27,7 +27,7 @@ graph TD
   style A fill:#00758f
   style A color:#000000
   style A font-weight:900
-  style A font-size:60px
+  style A fontSize:60px
   
   linkStyle default color:#0000FF
 ```
