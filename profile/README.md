@@ -9,7 +9,7 @@ These are my open personal notes.
 
 | Useful software                 |                                                                                   |
 |---------------------------------|-----------------------------------------------------------------------------------|
-| https://hovancik.net/stretchly/ | cross-platform app that reminds you to take breaks when working on your computer. |
+| ![image](https://user-images.githubusercontent.com/21064622/174436342-7e318322-3140-4574-b667-12dd19dc5d33.png) https://hovancik.net/stretchly/ | cross-platform app that reminds you to take breaks when working on your computer. |
 |                                 |                                                                                   |
 
 |  Useless software  |                                                                                               |
