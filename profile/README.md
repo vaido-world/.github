@@ -23,6 +23,7 @@ graph TD
   B --> C[Server01]
   B --> D[Server02]
   click A "http://www.github.com" "This is a link"
+  style A fill:#00758f
 ```
 
 ### [🕵🏼 Personal GitHub](https://github.com/BoQsc)
