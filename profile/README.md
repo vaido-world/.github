@@ -82,6 +82,7 @@ ext:.ove -folder:"Desktop\*"
 ext:.mp4 -folder:"Desktop\*"
 ext:.png -folder:"Desktop\*"
 ext:.jpeg -folder:"Desktop\*"
+ext:.jpg -folder:"Desktop\*"
 ext:.ove -folder:"Desktop\*"
 ext:.xcf -folder:"Desktop\*"
 ```
