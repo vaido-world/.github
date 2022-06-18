@@ -24,6 +24,8 @@ graph TD
   B --> D[Server02]
   click A "https://github.com/BoQsc" "This is a link"
   style A fill:#00758f
+  style A color:#000000
+  style A font-weight:bold
   linkStyle default color:#0000FF
 ```
 
