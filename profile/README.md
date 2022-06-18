@@ -22,6 +22,7 @@ graph TD
   A[Client] --> B[Load Balancer]
   B --> C[Server01]
   B --> D[Server02]
+  click A "http://www.github.com" "This is a link"
 ```
 
 ### [🕵🏼 Personal GitHub](https://github.com/BoQsc)
