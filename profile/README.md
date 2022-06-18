@@ -14,12 +14,19 @@ cross-platform app that reminds you to take breaks when working on your computer
 ### Useless software:  
 **Visual Studio Code** | Won't use it again. Frontend is browser-like. Written in JavaScript using Electron framework.
   
-### Answers about life in EU
-https://europa.eu/youreurope/index_en.htm
+
+
+### [🕵🏼 Personal GitHub](https://github.com/BoQsc)
+
+### [🗜 Virtual Private Server](https://github.com/vaido-world/Virtual-Private-Server)
+
+
+### [🚵🏽‍♂️ Answers about living in EU](https://europa.eu/youreurope/index_en.htm)
+
   
 
 <details>
-  <summary><h1> 👨🏼‍🏫 Finding a job in Europe using Eures portal:  </h1></summary>
+  <summary><h3> 👨🏼‍🏫 Finding a job in Europe using Eures portal:</h3></summary>
   
   * Use search keywords `computer software developer`, ` scientist engineer`,  `IT Assistant`, `IT Systems Administrator`  
   * Tick the `Language of the job vacancy: English`  
@@ -43,11 +50,6 @@ https://ec.europa.eu/eures/portal/jv-se/home?pageCode=find_a_job
 </details>
 
 
-
-
-### [🕵🏼 Personal GitHub](https://github.com/BoQsc)
-
-### [🗜 Virtual Private Server](https://github.com/vaido-world/Virtual-Private-Server)
 
 
 ### Domain Management Notes
