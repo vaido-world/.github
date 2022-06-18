@@ -17,7 +17,12 @@ These are my open personal notes.
 | Visual Studio Code | Won't use it again. Frontend is browser-like. Written in JavaScript using Electron framework. |
 |                    |                                                                                               |
 
-
+```mermaid
+graph TD
+  A[Client] --> B[Load Balancer]
+  B --> C[Server01]
+  B --> D[Server02]
+```
 
 ### [🕵🏼 Personal GitHub](https://github.com/BoQsc)
 
