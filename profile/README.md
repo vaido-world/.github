@@ -45,7 +45,7 @@ https://ec.europa.eu/eures/portal/jv-se/home?pageCode=find_a_job
 
 
 
-https://github.com/BoQsc
+### [🕵🏼 Personal GitHub](https://github.com/BoQsc)
 
 ### [🗜 Virtual Private Server](https://github.com/vaido-world/Virtual-Private-Server)
 
