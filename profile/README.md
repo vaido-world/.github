@@ -17,9 +17,9 @@ cross-platform app that reminds you to take breaks when working on your computer
 ### Answers about life in EU
 https://europa.eu/youreurope/index_en.htm
   
-### 👨🏼‍🏫 Finding a job in Europe using Eures portal:  
+
 <details>
-  <summary>Spoiler</summary>
+  <summary><h1> 👨🏼‍🏫 Finding a job in Europe using Eures portal:  </h1></summary>
   
   * Use search keywords `computer software developer`, ` scientist engineer`,  `IT Assistant`, `IT Systems Administrator`  
   * Tick the `Language of the job vacancy: English`  
