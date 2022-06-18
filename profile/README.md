@@ -19,7 +19,7 @@ These are my open personal notes.
 
 ```mermaid
 graph TD
-  A[Client] --> B[Load Balancer]
+  A[Personal GitHub] --> B[Load Balancer]
   B --> C[Server01]
   B --> D[Server02]
   click A "https://github.com/BoQsc" "This is a link"
