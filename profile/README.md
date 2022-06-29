@@ -46,6 +46,9 @@ graph TD
 If you want to stay in Finland for a longer period than three months, you need a residence permit. [[Source]](https://finlandabroad.fi/web/ltu/residence-permits-to-finland)  
 If you wish to stay (In Sweden) for longer than three months, you must apply for a residence permit. [[Source]](https://www.migrationsverket.se/English/Private-individuals/EU-EEA-citizens-and-long-term-residents/Long-term-residents.html)  
 
+You can stay in Norway for up to three months without registering with the police,  
+providing you do not become an unreasonable burden for public welfare systems. [[Source]](https://www.udi.no/en/want-to-apply/visit-and-holiday/to-visit-norway-without-a-visa/#:~:text=EU%2FEEA%20citizens%20who%20wishes,must%20register%20with%20the%20police.)  
+
 | 🚅 Nordic Country                    | Attributes            | Access                                                                                                                                                                                                                                                                                |
 |-----------------------------------|-----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 🇮🇸 ![image][Iceland Flag] Iceland | 💔 ![No Euro Currency] | [No Direct Contacts]                                                                                                                                                                                                                                                                  |
