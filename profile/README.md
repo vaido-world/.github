@@ -52,10 +52,11 @@ If you wish to stay (In Sweden) for longer than three months, you must apply for
 | 🇫🇮 ![image][Finland Flag] Finland | 💙 ![Euro Currency]    | [[Apply for residence permit]](https://finlandabroad.fi/web/ltu/residence-permits-to-finland) <br> [[Embassy of Finland]](https://finlandabroad.fi/web/ltu/frontpage)                                                                                                                                                                                                                    |
 |    **🚄 Scandinavian countries**   |                       |                                                                                                                                                                                                                                                                                       |
 | 🇩🇰 ![image][Denmark Flag] Denmark | 💔 ![No Euro Currency] | [[Embassy of Denmark]](https://litauen.um.dk/en)                                                                                                                                                                                                                                      |
-| 🇳🇴 ![image][Norway Flag] Norway   | 💔 ![No Euro Currency] | [[Embassy of Norway]](https://www.norway.no/en/lithuania/)                                                                                                                                                                                                                            |
+| 🇳🇴 ![image][Norway Flag] Norway   | 🤍 ![No Euro Currency] | [[Embassy of Norway]](https://www.norway.no/en/lithuania/)                                                                                                                                                                                                                            |
 | 🇸🇪 ![image][Sweden Flag] Sweden   | 💙 ![No Euro Currency] | [[Step by Step Guide]](https://sweden.se/work-business/moving-to-sweden/moving-to-sweden-in-10-steps) <br> [[Personal Guide]](https://www.officialswedishservices.se) <br> [[Embassy of Sweden]](https://www.swedenabroad.se/en/) <br> [[Study in Sweden]](https://studyinsweden.se/) |
 
 💙 Blue Heart Emoji means Embassy have a welcoming website.  
+🤍 White Heart Emoji means Embassy does not feel good enough.  
 💔 Broken Heart Emoji means Embassy have a bad vibe.  
  ![No Euro Currency] No Euro Currency in the country.
 
@@ -67,7 +68,7 @@ If you wish to stay (In Sweden) for longer than three months, you must apply for
 
 [Euro Currency]: https://user-images.githubusercontent.com/21064622/176410008-abc65181-6277-4c26-96a9-c787a4b1d85e.png
 [No Euro Currency]: https://user-images.githubusercontent.com/21064622/176412072-f1288fa0-e4bd-4925-bf14-06a83089ce39.png
-
+[Not too good]: 
 
 
 
