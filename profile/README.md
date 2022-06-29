@@ -42,6 +42,15 @@ graph TD
 
 ### [🚵🏽‍♂️ About living in EU](https://europa.eu/youreurope/index_en.htm)
 
+### Norden countries
+🇮🇸 Iceland,   
+🇫🇮 Finland,   
+#### Scandinavian countries
+🇩🇰 Denmark,   
+🇳🇴 Norway,   
+and 🇸🇪 Sweden.  
+
+
 <details>
   <summary><h3> 👨🏼‍🏫 Finding a job in Europe using Eures portal:</h3></summary>
   
