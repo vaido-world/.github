@@ -50,6 +50,9 @@ graph TD
 🇳🇴 Norway,   
 and 🇸🇪 Sweden.  
 
+The best way to earn some monies is by contracting companies.  
+Where they take care of traveling and housing.  
+
 
 <details>
   <summary><h3> 👨🏼‍🏫 Finding a job in Europe using Eures portal:</h3></summary>
