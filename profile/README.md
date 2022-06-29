@@ -88,7 +88,7 @@ https://ec.europa.eu/eures/portal/jv-se/home?pageCode=find_a_job
 </details>
 
 
-
+## 💼 The rest of unsorted stuff
 
 ### Domain Management Notes
 It's better to redirect `vaido.world` domain to <https://vaido-world.github.io/>, in case the `vaido.world` domain expires.  
