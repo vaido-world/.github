@@ -52,8 +52,8 @@ graph TD
 🇳🇴 ![image][Norway Flag] Norway 💔  [[Embassy of Norway]](https://www.norway.no/en/lithuania/)  
 🇸🇪 ![image][Sweden Flag] Sweden 💙 [[Step by Step Guide]](https://sweden.se/work-business/moving-to-sweden/moving-to-sweden-in-10-steps)  [[Personal Guide]](https://www.officialswedishservices.se)  [[Embassy of Sweden]](https://www.swedenabroad.se/en/)  [[Study in Sweden]](https://studyinsweden.se/)  
 
-💙 Blue Heart Emoji means Embassy have a welcoming website.
-💔 Broken Heart Emoji means Embassy have a bad vibe.
+💙 Blue Heart Emoji means Embassy have a welcoming website.  
+💔 Broken Heart Emoji means Embassy have a bad vibe.  
 
 [Iceland Flag]: https://user-images.githubusercontent.com/21064622/176395371-1af081d8-21d6-4d09-a556-23493e371dd5.png "16px x 12px Iceland flag."
 [Finland Flag]: https://user-images.githubusercontent.com/21064622/176397232-6283c9fa-78ef-45bc-9599-1276fedce91e.png "16px x 12px Finland flag."
