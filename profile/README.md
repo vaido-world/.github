@@ -42,10 +42,10 @@ graph TD
 
 ### [🚵🏽‍♂️ About living in EU](https://europa.eu/youreurope/index_en.htm)
 
-### Norden countries
+### 🚅 Norden countries
 🇮🇸 Iceland,   
 🇫🇮 Finland,   
-#### Scandinavian countries
+#### 🚄 Scandinavian countries
 🇩🇰 Denmark,   
 🇳🇴 Norway,   
 and 🇸🇪 Sweden.  [[Step by Step Guide]](https://sweden.se/work-business/moving-to-sweden/moving-to-sweden-in-10-steps)  [[Personal Guide]](https://www.officialswedishservices.se)  
