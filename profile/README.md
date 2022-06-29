@@ -48,7 +48,7 @@ graph TD
 #### Scandinavian countries
 🇩🇰 Denmark,   
 🇳🇴 Norway,   
-and 🇸🇪 Sweden.  [[Step by step guide]](https://sweden.se/work-business/moving-to-sweden/moving-to-sweden-in-10-steps)  [[Personal Guide]](https://www.officialswedishservices.se)  
+and 🇸🇪 Sweden.  [[Step by Step Guide]](https://sweden.se/work-business/moving-to-sweden/moving-to-sweden-in-10-steps)  [[Personal Guide]](https://www.officialswedishservices.se)  
 
 The best way to earn some monies is by contracting companies.  
 Where they take care of traveling and housing.  
