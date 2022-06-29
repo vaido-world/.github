@@ -53,7 +53,7 @@ graph TD
 🇳🇴 Norway,   
 and 🇸🇪 Sweden.  [[Step by Step Guide]](https://sweden.se/work-business/moving-to-sweden/moving-to-sweden-in-10-steps)  [[Personal Guide]](https://www.officialswedishservices.se)  [[Embassy of Sweden]](https://www.swedenabroad.se/en/)  [[Study in Sweden]](https://studyinsweden.se/)  
 
-[Iceland Flag]: https://user-images.githubusercontent.com/21064622/176395371-1af081d8-21d6-4d09-a556-23493e371dd5.png
+[Iceland Flag]: https://user-images.githubusercontent.com/21064622/176395371-1af081d8-21d6-4d09-a556-23493e371dd5.png "A 16px x 12px Iceland flag."
 
 The best way to earn some monies is by contracting companies.  
 Where they take care of traveling and housing.  
