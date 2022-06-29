@@ -55,7 +55,7 @@ graph TD
 
 💙 Blue Heart Emoji means Embassy have a welcoming website.  
 💔 Broken Heart Emoji means Embassy have a bad vibe.  
- ![No Euro Currency]  No Eur Currency in the country.
+ ![No Euro Currency] No Eur Currency in the country.
 
 [Iceland Flag]: https://user-images.githubusercontent.com/21064622/176395371-1af081d8-21d6-4d09-a556-23493e371dd5.png "16px x 12px Iceland flag."
 [Finland Flag]: https://user-images.githubusercontent.com/21064622/176397232-6283c9fa-78ef-45bc-9599-1276fedce91e.png "16px x 12px Finland flag."
@@ -64,7 +64,8 @@ graph TD
 [Sweden Flag]: https://user-images.githubusercontent.com/21064622/176400440-afa82338-1bb9-4bf1-bd83-ac47e99824a6.png "16px x 12px Sweden flag."
 
 [Euro Currency]: https://user-images.githubusercontent.com/21064622/176410008-abc65181-6277-4c26-96a9-c787a4b1d85e.png
-[No Euro Currency]: https://user-images.githubusercontent.com/21064622/176410637-940e9c53-131c-44a5-ad66-411514684563.png
+[No Euro Currency]: https://user-images.githubusercontent.com/21064622/176412072-f1288fa0-e4bd-4925-bf14-06a83089ce39.png
+
 
 
 
