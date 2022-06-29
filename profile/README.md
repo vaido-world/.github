@@ -80,6 +80,11 @@ Some even do not have € Euro as the country's currency.
 
 [Accurate representation of the Norden countries.](https://www.youtube.com/watch?v=Q_SaRMP90OA)
 
+Uhh, so it might be only Sweden or Finland for me.  
+It's important even if I won't migrate there immediately.  
+Having a work experience and connections   
+in the country does help with the overall access.  
+
 
 <details>
   <summary><h3> 👨🏼‍🏫 Finding a job in Europe using Eures portal:</h3></summary>
