@@ -53,6 +53,7 @@ and 🇸🇪 Sweden.
 The best way to earn some monies is by contracting companies.  
 Where they take care of traveling and housing.  
 
+None of the countries have English language as primary.
 
 <details>
   <summary><h3> 👨🏼‍🏫 Finding a job in Europe using Eures portal:</h3></summary>
