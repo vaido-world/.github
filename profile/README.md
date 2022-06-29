@@ -43,7 +43,8 @@ graph TD
 ### [🚵🏽‍♂️ About living in EU](https://europa.eu/youreurope/index_en.htm)
 
 ## 🚀 The Emergency Emigration Guide
-If you want to stay in Finland for a longer period than three months, you need a residence permit.
+If you want to stay in Finland for a longer period than three months, you need a residence permit. [[Source]](https://finlandabroad.fi/web/ltu/residence-permits-to-finland)  
+If you wish to stay (In Sweden) for longer than three months, you must apply for a residence permit. [[Source]](https://www.migrationsverket.se/English/Private-individuals/EU-EEA-citizens-and-long-term-residents/Long-term-residents.html)  
 
 | 🚅 Nordic Country                    | Attributes            | Access                                                                                                                                                                                                                                                                                |
 |-----------------------------------|-----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
