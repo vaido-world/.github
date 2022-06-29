@@ -49,7 +49,7 @@ graph TD
 🇫🇮 ![image][Finland Flag] Finland   
 #### 🚄 Scandinavian countries
 🇩🇰 ![image][Denmark Flag] Denmark   
-🇳🇴 ![image][Norway Flag] Norway   
+🇳🇴 ![image][Norway Flag] Norway  [[Embassy of Norway]](https://www.norway.no/en/lithuania/)  
 🇸🇪 ![image][Sweden Flag] Sweden  [[Step by Step Guide]](https://sweden.se/work-business/moving-to-sweden/moving-to-sweden-in-10-steps)  [[Personal Guide]](https://www.officialswedishservices.se)  [[Embassy of Sweden]](https://www.swedenabroad.se/en/)  [[Study in Sweden]](https://studyinsweden.se/)  
 
 [Iceland Flag]: https://user-images.githubusercontent.com/21064622/176395371-1af081d8-21d6-4d09-a556-23493e371dd5.png "16px x 12px Iceland flag."
