@@ -42,6 +42,8 @@ graph TD
 
 ### [🚵🏽‍♂️ About living in EU](https://europa.eu/youreurope/index_en.htm)
 
+
+## The Emergency Emigration Guide
 ### 🚅 Norden countries
 🇮🇸 Iceland,   
 🇫🇮 Finland,   
@@ -57,6 +59,9 @@ None of the countries have English language as primary.
 Some even do not have € Euro as the country's currency.  
 
 [Definitions of Migrant, Refugee, Immigrant and Expatriate.](https://www.antidote.info/en/blog/reports/migrant-refugee-immigrant-and-expatriate-what-difference)
+
+Accurate representation of the Norden countries.
+
 
 <details>
   <summary><h3> 👨🏼‍🏫 Finding a job in Europe using Eures portal:</h3></summary>
