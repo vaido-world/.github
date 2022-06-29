@@ -49,9 +49,9 @@ graph TD
 
 🇫🇮 ![image][Finland Flag] Finland 💙 ![image][Euro Currency] [[Embassy of Finland]](https://finlandabroad.fi/web/ltu/frontpage)  
 #### 🚄 Scandinavian countries
-🇩🇰 ![image][Denmark Flag] Denmark 💔   [[Embassy of Denmark]](https://litauen.um.dk/en)  
-🇳🇴 ![image][Norway Flag] Norway 💔  [[Embassy of Norway]](https://www.norway.no/en/lithuania/)  
-🇸🇪 ![image][Sweden Flag] Sweden 💙 [[Step by Step Guide]](https://sweden.se/work-business/moving-to-sweden/moving-to-sweden-in-10-steps)  [[Personal Guide]](https://www.officialswedishservices.se)  [[Embassy of Sweden]](https://www.swedenabroad.se/en/)  [[Study in Sweden]](https://studyinsweden.se/)  
+🇩🇰 ![image][Denmark Flag] Denmark 💔 ![No Euro Currency]   [[Embassy of Denmark]](https://litauen.um.dk/en)  
+🇳🇴 ![image][Norway Flag] Norway 💔 ![No Euro Currency] [[Embassy of Norway]](https://www.norway.no/en/lithuania/)  
+🇸🇪 ![image][Sweden Flag] Sweden 💙 ![No Euro Currency] [[Step by Step Guide]](https://sweden.se/work-business/moving-to-sweden/moving-to-sweden-in-10-steps)  [[Personal Guide]](https://www.officialswedishservices.se)  [[Embassy of Sweden]](https://www.swedenabroad.se/en/)  [[Study in Sweden]](https://studyinsweden.se/)  
 
 💙 Blue Heart Emoji means Embassy have a welcoming website.  
 💔 Broken Heart Emoji means Embassy have a bad vibe.  
