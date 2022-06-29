@@ -89,7 +89,7 @@ in the country does help with the overall access.
 Sweden looks more cute, but Finland has Euro currency.  
 This shows a lot about their caring and their standards.  
 
-I'm starting to like Finland more, they seem to be more open. 
+I'm starting to like Finland more, they seem to be more open.  
 They actually post job applications on EURES portal. (With EURES FLAG)
 
 
