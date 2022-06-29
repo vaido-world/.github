@@ -82,6 +82,7 @@ Some even do not have € Euro as the country's currency.
 
 Uhh, so it might be only Sweden or Finland for me.  
 It's important even if I won't migrate there immediately.  
+
 Having a work experience and connections   
 in the country does help with the overall access.  
 
