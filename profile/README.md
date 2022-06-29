@@ -43,7 +43,7 @@ graph TD
 ### [🚵🏽‍♂️ About living in EU](https://europa.eu/youreurope/index_en.htm)
 
 
-## The Emergency Emigration Guide
+## 🚀 The Emergency Emigration Guide
 ### 🚅 Norden countries
 🇮🇸 Iceland,   
 🇫🇮 Finland,   
