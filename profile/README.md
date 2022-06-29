@@ -47,7 +47,8 @@ graph TD
 ### 🚅 Norden countries
 🇮🇸 ![image][Iceland Flag] Iceland   💔 [No Direct Contacts]  
 
-🇫🇮 ![image][Finland Flag] Finland 💙€ [[Embassy of Finland]](https://finlandabroad.fi/web/ltu/frontpage)  
+🇫🇮 ![image][Finland Flag] Finland 💙![image](https://user-images.githubusercontent.com/21064622/176407953-592ec14f-e665-4c47-8f78-2b031946dcb4.png)
+ [[Embassy of Finland]](https://finlandabroad.fi/web/ltu/frontpage)  
 #### 🚄 Scandinavian countries
 🇩🇰 ![image][Denmark Flag] Denmark 💔   [[Embassy of Denmark]](https://litauen.um.dk/en)  
 🇳🇴 ![image][Norway Flag] Norway 💔  [[Embassy of Norway]](https://www.norway.no/en/lithuania/)  
