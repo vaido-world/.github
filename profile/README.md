@@ -45,7 +45,7 @@ graph TD
 
 ## 🚀 The Emergency Emigration Guide
 ### 🚅 Norden countries
-🇮🇸 ![image][Iceland Flag] Iceland   💔 ![No Euro Currency] [No Direct Contacts]  
+🇮🇸 ![image][Iceland Flag] Iceland   💔![No Euro Currency] [No Direct Contacts]  
 
 🇫🇮 ![image][Finland Flag] Finland 💙 ![image][Euro Currency] [[Embassy of Finland]](https://finlandabroad.fi/web/ltu/frontpage)  
 #### 🚄 Scandinavian countries
