@@ -62,7 +62,7 @@ graph TD
 [Norway Flag]: https://user-images.githubusercontent.com/21064622/176400014-a8adb054-0b50-4759-8623-6d43b85ce64a.png "16px x 12px Norway flag."
 [Sweden Flag]: https://user-images.githubusercontent.com/21064622/176400440-afa82338-1bb9-4bf1-bd83-ac47e99824a6.png "16px x 12px Sweden flag."
 
-[Euro Currency]: https://user-images.githubusercontent.com/21064622/176409438-5e3e93d1-657e-4a59-9499-1c85a66523d2.png
+[Euro Currency]: https://user-images.githubusercontent.com/21064622/176410008-abc65181-6277-4c26-96a9-c787a4b1d85e.png
 
 
 
