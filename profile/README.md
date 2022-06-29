@@ -86,7 +86,7 @@ Having a work experience and connections
 in the country does help with the overall access.  
 
 Sweden looks more cute, but Finland has Euro currency.  
-This shows a lot about their caring and standards.  
+This shows a lot about their caring and their standards.  
 
 
 <details>
