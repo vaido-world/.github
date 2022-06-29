@@ -54,7 +54,7 @@ The best way to earn some monies is by contracting companies.
 Where they take care of traveling and housing.  
 
 None of the countries have English language as primary.   
-Some even do not have Euro as the country's currency.  
+Some even do not have € Euro as the country's currency.  
 
 [Definitions of Migrant, Refugee, Immigrant and Expatriate.](https://www.antidote.info/en/blog/reports/migrant-refugee-immigrant-and-expatriate-what-difference)
 
