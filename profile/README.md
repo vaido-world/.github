@@ -43,6 +43,7 @@ graph TD
 ### [🚵🏽‍♂️ About living in EU](https://europa.eu/youreurope/index_en.htm)
 
 ## 🚀 The Emergency Emigration Guide
+If you want to stay in Finland for a longer period than three months, you need a residence permit.
 
 | 🚅 Nordic Country                    | Attributes            | Access                                                                                                                                                                                                                                                                                |
 |-----------------------------------|-----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -91,6 +92,8 @@ This shows a lot about their caring and their standards.
 
 I'm starting to like Finland more, they seem to be more open.  
 They actually post job applications on EURES portal. (With EURES FLAG)
+
+
 
 
 
