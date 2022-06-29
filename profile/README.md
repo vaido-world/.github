@@ -45,7 +45,7 @@ graph TD
 
 ## 🚀 The Emergency Emigration Guide
 ### 🚅 Norden countries
-🇮🇸 ![image][Iceland Flag] Iceland   
+🇮🇸 ![image][Iceland Flag] Iceland   💔 [No Direct Contacts]  
 🇫🇮 ![image][Finland Flag] Finland 💙 [[Embassy of Finland]](https://finlandabroad.fi/web/ltu/frontpage)  
 #### 🚄 Scandinavian countries
 🇩🇰 ![image][Denmark Flag] Denmark 💔   [[Embassy of Denmark]](https://litauen.um.dk/en)  
