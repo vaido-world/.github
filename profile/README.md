@@ -53,17 +53,19 @@ providing you do not become an unreasonable burden for public welfare systems. [
 
 | 🚅 Nordic Country                    | Attributes            | Access                                                                                                                                                                                                                                                                                |
 |-----------------------------------|-----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 🇮🇸 ![image][Iceland Flag] Iceland | 💔 ![No Euro Currency] | [No Direct Contacts]                                                                                                                                                                                                                                                                  |
-| 🇫🇮 ![image][Finland Flag] Finland | 💙 ![Euro Currency]    | [[Apply for residence permit]](https://finlandabroad.fi/web/ltu/residence-permits-to-finland) <br> [[Embassy of Finland]](https://finlandabroad.fi/web/ltu/frontpage) <br> [[Finland Toolbox]](https://toolbox.finland.fi/life-society/finfo-living-finnish-way-english/) <br> [[Conducted Basic Income Experiment]](https://toolbox.finland.fi/life-society/video-finland-basic-income-experiment-2017-2018-results/)                                                                                                                                                                                                                   |
+| 🇮🇸 ![image][Iceland Flag] Iceland | 💔 ![No Euro Currency] ![NATO Symbol Icon] | [No Direct Contacts]                                                                                                                                                                                                                                                                  |
+| 🇫🇮 ![image][Finland Flag] Finland | 💙 ![Euro Currency] ![NATO Symbol Icon NOT YET]   | [[Apply for residence permit]](https://finlandabroad.fi/web/ltu/residence-permits-to-finland) <br> [[Embassy of Finland]](https://finlandabroad.fi/web/ltu/frontpage) <br> [[Finland Toolbox]](https://toolbox.finland.fi/life-society/finfo-living-finnish-way-english/) <br> [[Conducted Basic Income Experiment]](https://toolbox.finland.fi/life-society/video-finland-basic-income-experiment-2017-2018-results/)                                                                                                                                                                                                                   |
 |    **🚄 Scandinavian countries**   |                       |                                                                                                                                                                                                                                                                                       |
-| 🇩🇰 ![image][Denmark Flag] Denmark | 💔 ![No Euro Currency] | [[Embassy of Denmark]](https://litauen.um.dk/en)                                                                                                                                                                                                                                      |
-| 🇳🇴 ![image][Norway Flag] Norway   | 🤍 ![No Euro Currency] | [[Embassy of Norway]](https://www.norway.no/en/lithuania/)                                                                                                                                                                                                                            |
-| 🇸🇪 ![image][Sweden Flag] Sweden   | 💙 ![No Euro Currency] | [[Step by Step Guide]](https://sweden.se/work-business/moving-to-sweden/moving-to-sweden-in-10-steps) <br> [[Personal Guide]](https://www.officialswedishservices.se) <br> [[Embassy of Sweden]](https://www.swedenabroad.se/en/) <br> [[Study in Sweden]](https://studyinsweden.se/) |
+| 🇩🇰 ![image][Denmark Flag] Denmark | 💔 ![No Euro Currency] ![NATO Symbol Icon] | [[Embassy of Denmark]](https://litauen.um.dk/en)                                                                                                                                                                                                                                      |
+| 🇳🇴 ![image][Norway Flag] Norway   | 🤍 ![No Euro Currency] ![NATO Symbol Icon] | [[Embassy of Norway]](https://www.norway.no/en/lithuania/)                                                                                                                                                                                                                            |
+| 🇸🇪 ![image][Sweden Flag] Sweden   | 💙 ![No Euro Currency] ![NATO Symbol Icon NOT YET] | [[Step by Step Guide]](https://sweden.se/work-business/moving-to-sweden/moving-to-sweden-in-10-steps) <br> [[Personal Guide]](https://www.officialswedishservices.se) <br> [[Embassy of Sweden]](https://www.swedenabroad.se/en/) <br> [[Study in Sweden]](https://studyinsweden.se/) |
 
 💙 Blue Heart Emoji means Embassy have a welcoming website.  
 🤍 White Heart Emoji means Embassy does not feel good enough.  
 💔 Broken Heart Emoji means Embassy have a bad vibe.  
- ![No Euro Currency] No Euro Currency in the country.
+ ![No Euro Currency] No Euro Currency in the country.  
+ ![NATO Symbol Icon NOT YET] About to Join NATO. Joined NATO recently.  
+ ![NATO Symbol Icon] Longtime member of NATO.
 
 [Iceland Flag]: https://user-images.githubusercontent.com/21064622/176395371-1af081d8-21d6-4d09-a556-23493e371dd5.png "16px x 12px Iceland flag."
 [Finland Flag]: https://user-images.githubusercontent.com/21064622/176397232-6283c9fa-78ef-45bc-9599-1276fedce91e.png "16px x 12px Finland flag."
@@ -73,7 +75,8 @@ providing you do not become an unreasonable burden for public welfare systems. [
 
 [Euro Currency]: https://user-images.githubusercontent.com/21064622/176410008-abc65181-6277-4c26-96a9-c787a4b1d85e.png
 [No Euro Currency]: https://user-images.githubusercontent.com/21064622/176412072-f1288fa0-e4bd-4925-bf14-06a83089ce39.png
-[Not too good]: 
+[NATO Symbol Icon]: https://user-images.githubusercontent.com/21064622/176870746-1709810f-c369-4a22-acfa-cf18bb0a65b1.png
+[NATO Symbol Icon NOT YET]: https://user-images.githubusercontent.com/21064622/176871406-e2eb9086-bb68-4d2d-949d-e5206d6ef0bf.png
 
 
 
