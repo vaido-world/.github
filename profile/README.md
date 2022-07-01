@@ -39,8 +39,8 @@ graph TD
 
 ### [🗜 Virtual Private Server](https://github.com/vaido-world/Virtual-Private-Server)
 
-
 ### [🚵🏽‍♂️ About living in EU](https://europa.eu/youreurope/index_en.htm)
+[[Traditional regions of Europe]](https://saylordotorg.github.io/text_world-regional-geography-people-places-and-globalization/s05-04-regions-of-western-europe.html)
 
 ## 🚀 The Emergency Emigration Guide
 If you want to stay in ![Finland Flag] Finland for a longer period than three months, you need a residence permit. [[Source]](https://finlandabroad.fi/web/ltu/residence-permits-to-finland)  
