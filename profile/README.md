@@ -49,6 +49,8 @@ If you wish to stay (In ![Sweden Flag] Sweden) for longer than three months, you
 You can stay in ![Norway Flag] Norway for up to three months without registering with the police,  
 providing you do not become an unreasonable burden for public welfare systems. [[Source]](https://www.udi.no/en/want-to-apply/visit-and-holiday/to-visit-norway-without-a-visa/#:~:text=EU%2FEEA%20citizens%20who%20wishes,must%20register%20with%20the%20police.)  
 
+#### North Europe
+
 | 🚅 Nordic Country                    | Attributes            | Access                                                                                                                                                                                                                                                                                |
 |-----------------------------------|-----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 🇮🇸 ![image][Iceland Flag] Iceland | 💔 ![No Euro Currency] | [No Direct Contacts]                                                                                                                                                                                                                                                                  |
