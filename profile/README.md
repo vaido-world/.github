@@ -187,3 +187,8 @@ ext:.xcf -folder:"Desktop\*"
   
 * Use https://www.y2mate.com/  
 * Download, Install, Use https://youtube-dl.org/  
+
+### TinyURL generator
+Can be used to share magnet links. `magnet:`
+Can be used to utilize application protocols like `steam:`
+https://tinyurl.com/app/
