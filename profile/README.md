@@ -189,6 +189,11 @@ ext:.xcf -folder:"Desktop\*"
 * Download, Install, Use https://youtube-dl.org/  
 
 ### TinyURL generator
-Can be used to share magnet links. `magnet:`
-Can be used to utilize application protocols like `steam:`
+Can be used to share magnet links. `magnet:`  
+Can be used to utilize application protocols like `steam:`  
 https://tinyurl.com/app/
+
+### imgur to quick post a quality homemade gif
+Tenor uploads might take some time before approved.  
+For a quick upload of .gif imgur can be used.  
+https://imgur.com/
