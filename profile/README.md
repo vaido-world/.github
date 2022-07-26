@@ -119,7 +119,7 @@ They actually post job applications on EURES portal. (With EURES FLAG)
 
 | 🚅 Western Country      | Capital City              | Attributes            | Access                                                                                                                                                                                                                                                                                |
 |-----------------------------------|-----------------------|-----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![Netherlands Flag] Netherlands | Amsterdam | 🤍 ![Euro Currency] ![NATO Symbol Icon]  | Research In-progress <br> [\[Embassy of Netherlands\]][Embassy of Netherlands] |
+| ![Netherlands Flag] Netherlands | Amsterdam | 🤍💔 ![Euro Currency] ![NATO Symbol Icon]  | Research In-progress <br> [\[Embassy of Netherlands\]][Embassy of Netherlands] |
 Germany <Poor internet>  | Berlin | 💔💔 ![Euro Currency] ![NATO Symbol Icon] | [\[German Foreign Policy page\]][German Foreign Policy page]
 Belgium   
 France  
