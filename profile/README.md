@@ -120,12 +120,12 @@ They actually post job applications on EURES portal. (With EURES FLAG)
 | 🚅 Western Country      | Capital City              | Attributes            | Access                                                                                                                                                                                                                                                                                |
 |-----------------------------------|-----------------------|-----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ![Netherlands Flag] Netherlands | Amsterdam | 🤍 ![Euro Currency] ![NATO Symbol Icon]  | Research In-progress <br> [\[Embassy of Netherlands\]][Embassy of Netherlands] |
-Germany <Poor internet>  
+Germany <Poor internet>  | Berlin | 💔 ![Euro Currency] ![NATO Symbol Icon] | [\[German Foreign Policy page\]][German Foreign Policy page]
 Belgium   
 France  
 
 [Embassy of Netherlands]: https://www.netherlandsandyou.nl/your-country-and-the-netherlands/lithuania "Link to Embassy of Netherlands"
-
+[German Foreign Policy page]: https://www.auswaertiges-amt.de/en/aussenpolitik/laenderinformationen/litauen-node/lithuania/228032
 <details>
   <summary><h3> 👨🏼‍🏫 Finding a job in Europe using Eures portal:</h3></summary>
   
