@@ -115,8 +115,8 @@ They actually post job applications on EURES portal. (With EURES FLAG)
 [Netherlands Flag]: https://user-images.githubusercontent.com/21064622/180970568-aff65e6b-c6d8-4cfd-9e37-f9097eebf135.png "16px x 12px Netherlands flag."  
 
 
-
-![Netherlands Flag] Netherlands  🤍 ![Euro Currency] ![NATO Symbol Icon]  
+| 🚅 Western Country                    | Attributes            | Access                    
+|![Netherlands Flag] Netherlands  🤍 ![Euro Currency] ![NATO Symbol Icon]  | Research In-progress|
 Germany <Poor internet>  
 Belgium   
 France  
