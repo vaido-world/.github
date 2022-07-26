@@ -103,7 +103,11 @@ This shows a lot about their caring and their standards.
 I'm starting to like Finland more, they seem to be more open.  
 They actually post job applications on EURES portal. (With EURES FLAG)
 
-
+#### West Europe
+Netherlands
+Germany <Poor internet>
+Belgium 
+France
 
 
 
