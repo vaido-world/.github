@@ -119,12 +119,12 @@ They actually post job applications on EURES portal. (With EURES FLAG)
 
 | 🚅 Western Country                    | Attributes            | Access                                                                                                                                                                                                                                                                                |
 |-----------------------------------|-----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![Netherlands Flag] Netherlands | 🤍 ![Euro Currency] ![NATO Symbol Icon]  | Research In-progress|
+| ![Netherlands Flag] Netherlands | 🤍 ![Euro Currency] ![NATO Symbol Icon]  | Research In-progress [[Embassy of Netherlands]][Embassy of Netherlands]|
 Germany <Poor internet>  
 Belgium   
 France  
 
-
+[Embassy of Netherlands]: https://www.netherlandsandyou.nl/your-country-and-the-netherlands/lithuania
 
 <details>
   <summary><h3> 👨🏼‍🏫 Finding a job in Europe using Eures portal:</h3></summary>
