@@ -116,7 +116,7 @@ They actually post job applications on EURES portal. (With EURES FLAG)
 
 
 
-Netherlands  ![Netherlands Flag]  
+![Netherlands Flag] Netherlands  ![Euro Currency] 
 Germany <Poor internet>  
 Belgium   
 France  
