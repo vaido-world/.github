@@ -126,6 +126,11 @@ France
 
 [Embassy of Netherlands]: https://www.netherlandsandyou.nl/your-country-and-the-netherlands/lithuania "Link to Embassy of Netherlands"
 [German Foreign Policy page]: https://www.auswaertiges-amt.de/en/aussenpolitik/laenderinformationen/litauen-node/lithuania/228032
+
+Ireland?
+
+
+
 <details>
   <summary><h3> 👨🏼‍🏫 Finding a job in Europe using Eures portal:</h3></summary>
   
