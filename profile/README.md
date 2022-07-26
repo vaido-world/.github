@@ -119,7 +119,7 @@ They actually post job applications on EURES portal. (With EURES FLAG)
 
 | 🚅 Western Country                    | Attributes            | Access                                                                                                                                                                                                                                                                                |
 |-----------------------------------|-----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![Netherlands Flag] Netherlands | 🤍 ![Euro Currency] ![NATO Symbol Icon]  | Research In-progress [\[Embassy of Netherlands\[][Embassy of Netherlands] |
+| ![Netherlands Flag] Netherlands | 🤍 ![Euro Currency] ![NATO Symbol Icon]  | Research In-progress <br> [\[Embassy of Netherlands\[][Embassy of Netherlands] |
 Germany <Poor internet>  
 Belgium   
 France  
