@@ -107,10 +107,12 @@ They actually post job applications on EURES portal. (With EURES FLAG)
 [If you intend to stay in the Netherlands for less than four months, you need to register as a temporary resident (non-resident) of the Netherlands.][Short Term Netherlands]
 [If you plan to stay in the country for more than four months, you have to register as a resident of the Netherlands.][Register as Resident Netherlands]
 
+[If you want to stay in the Netherlands for longer than 90 days, you may need a residence permit. In many cases you will also have to apply for a long-stay visa before you travel to the Netherlands. This visa is also called an authorisation for temporary stay (MVV).][Official Netherlands Permit]
 
-
+[Official Netherlands Permit]: https://www.netherlandsworldwide.nl/visa-the-netherlands/mvv-long-stay/apply-lithuania#:~:text=If%20you%20want%20to%20stay%20in%20the%20Netherlands%20for%20longer%20than%2090%20days%2C%20you%20may%20need%20a%20residence%20permit.%20In%20many%20cases%20you%20will%20also%20have%20to%20apply%20for%20a%20long%2Dstay%20visa%20before%20you%20travel%20to%20the%20Netherlands.%20This%20visa%20is%20also%20called%20an%20authorisation%20for%20temporary%20stay%20(MVV).
 [Short Term Netherlands]: https://www.immigration-netherlands.com/how-to-move-to-the-netherlands-from-lithuania#:~:text=If%20you%20intend%20to%20stay%20in%20the%20Netherlands%20for%20less%20than%20four%20months%2C%20you%20need%20to%20register%20as%20a%20temporary%20resident%20(non%2Dresident)%20of%20the%20Netherlands.
 [Register as Resident Netherlands]: https://www.immigration-netherlands.com/how-to-move-to-the-netherlands-from-lithuania#:~:text=If%20you%20plan%20to%20stay%20in%20the%20country%20for%20more%20than%20four%20months%2C%20you%20have%20to%20register%20as%20a%20resident%20of%20the%20Netherlands.%20This
+
 
 [Netherlands Flag]: https://user-images.githubusercontent.com/21064622/180970568-aff65e6b-c6d8-4cfd-9e37-f9097eebf135.png "16px x 12px Netherlands flag."  
 
