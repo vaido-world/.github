@@ -104,6 +104,14 @@ I'm starting to like Finland more, they seem to be more open.
 They actually post job applications on EURES portal. (With EURES FLAG)
 
 #### West Europe
+[If you intend to stay in the Netherlands for less than four months, you need to register as a temporary resident (non-resident) of the Netherlands.][Short Term Netherlands]
+[If you plan to stay in the country for more than four months, you have to register as a resident of the Netherlands.][Register as Resident Netherlands]
+
+
+[Short Term Netherlands]: https://www.immigration-netherlands.com/how-to-move-to-the-netherlands-from-lithuania#:~:text=If%20you%20intend%20to%20stay%20in%20the%20Netherlands%20for%20less%20than%20four%20months%2C%20you%20need%20to%20register%20as%20a%20temporary%20resident%20(non%2Dresident)%20of%20the%20Netherlands.
+[Register as Resident Netherlands]: https://www.immigration-netherlands.com/how-to-move-to-the-netherlands-from-lithuania#:~:text=If%20you%20plan%20to%20stay%20in%20the%20country%20for%20more%20than%20four%20months%2C%20you%20have%20to%20register%20as%20a%20resident%20of%20the%20Netherlands.%20This
+
+
 Netherlands
 Germany <Poor internet>
 Belgium 
