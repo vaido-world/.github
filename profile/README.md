@@ -224,6 +224,8 @@ https://imgur.com/
 
 ### All about patents [Europe]
 [What you need to know about Copyright, Patents, Trademarks and Open Source!](https://www.youtube.com/watch?t=723&v=61lgkb9BC54&feature=youtu.be)  
+
+["Intellectual Property Basics: Understanding Patents, Trademarks, Copyrights and Trade Secrets"](https://www.youtube.com/watch?v=1viuhVp8Ugk)
   
 [[What do the Patents protect]](https://europa.eu/youreurope/business/running-business/intellectual-property/patents//index_en.htm#:~:text=it%20expires.-,What%20a%20patent%20protects,-Use%20a%20patent)  
 [[Apply for Patent in Europe]](https://www.epo.org/applying/basics.html)  
