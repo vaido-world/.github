@@ -228,3 +228,10 @@ https://imgur.com/
 [[Apply for Patent in Europe]](https://www.epo.org/applying/basics.html)  
 [[Patent Fees]](https://www.epo.org/applying/fees/fees.html) -> [[Rules relating to fees]](https://www.epo.org/law-practice/legal-texts/official-journal/2022/etc/se2/p1.html)  
 [[Contact the European Patent Office]](https://www.epo.org/service-support/contact-us.html)  
+  
+ Contact The Ombuds Office for informal questions on Patenting.
+ > The Ombuds Office is available to any individual wishing to address a concern in the dealings with the EPO. It is an informal and confidential service to offer guidance and help get things back on track if you have been unable to resolve matters to your satisfaction by going through the formal channels.
+[[https://www.epo.org/service-support/contact-us.html]](https://www.epo.org/service-support/contact-us.html) ombuds@epo.org
+  
+European Patent Office Discussion forum for informal contact and questions  
+https://www.epo.org/service-support/forums.html
