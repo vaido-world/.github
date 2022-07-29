@@ -262,6 +262,7 @@ You have to go through every country and every government with enough proof and 
 ![image](https://user-images.githubusercontent.com/21064622/181778057-66f32781-17c1-436b-b39d-2807a26d51e6.png)
   
 https://forum.tzm.community/t/our-responsibility-to-the-community/22132
+![image](https://user-images.githubusercontent.com/21064622/181778437-06a2a9d5-3911-43ab-99ec-a5666e8357fe.png)
     </details>    
 ### File Types That Are Secretly Just .Zip Files In Disguise
   https://www.youtube.com/watch?v=xGXTy_mwQZY
