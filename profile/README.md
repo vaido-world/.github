@@ -241,5 +241,27 @@ https://www.epo.org/service-support/forums.html
   
  [[Patent Database, Espacenet patent search]](https://www.epo.org/searching-for-patents/technical/espacenet.html#tab-1) -> https://worldwide.espacenet.com/  
   
+<details>
+        <summary>Copyleft or copyright or any kind of copy license is not responsive for patents and trademarks.</summary>
+   
+Copyleft or copyright or any kind of copy license is not responsive for patents and trademarks.
+Do you really believe that some notice in a license is going suddenly overturn a patent and a trademark.
+
+These licenses have nothing to do with the patents and trademarks.
+It’s merely a notice and a gesture in a Market Economy warfare.
+GPL or MIT do not mean anything in that regard. These are only copy licenses.
+
+You don’t get any more silly, than making decision without doing a research.
+Fedora is really a project that simply does not care about its content and is a hype-product.
+I’m attaching Creative Commons response to any kind of these patent worriers that believe their Copyright license can have anything to do with patents or trademarks…
+
+CC0 is a license with original Public Domain intent and correct statements of what a copyright license is capable of and not more. GPL, MIT and other licenses face exactly the same patents and trademarks concerns. Copyright license should not be a written fairytale that make you feel like you are suddenly an owner of every patent and a trademark in your project. You are not and you will never be, by simply placing some notice in a license file.
+
+You have to go through every country and every government with enough proof and money to support your claims. Patenting something is incredibly laborious and expensive thing in comparison to some naive copy license notice. Keeping a trademark and proving, defending it in the commerce is also incredibly time consuming and expensive thing in comparison. Essentialy your copy license notice is nothing, if a patent and a trademark is registered in your country.
+
+![image](https://user-images.githubusercontent.com/21064622/181778057-66f32781-17c1-436b-b39d-2807a26d51e6.png)
+  
+https://forum.tzm.community/t/our-responsibility-to-the-community/22132
+    </details>    
 ### File Types That Are Secretly Just .Zip Files In Disguise
   https://www.youtube.com/watch?v=xGXTy_mwQZY
