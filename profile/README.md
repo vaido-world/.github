@@ -222,8 +222,9 @@ Tenor uploads might take some time before approved.
 For a quick upload of .gif imgur can be used.  
 https://imgur.com/
 
-### All about patents
+### All about patents [Europe]
 [What you need to know about Copyright, Patents, Trademarks and Open Source!](https://www.youtube.com/watch?t=723&v=61lgkb9BC54&feature=youtu.be)  
+  
 [[What do the Patents protect]](https://europa.eu/youreurope/business/running-business/intellectual-property/patents//index_en.htm#:~:text=it%20expires.-,What%20a%20patent%20protects,-Use%20a%20patent)  
 [[Apply for Patent in Europe]](https://www.epo.org/applying/basics.html)  
 [[Patent Fees]](https://www.epo.org/applying/fees/fees.html) -> [[Rules relating to fees]](https://www.epo.org/law-practice/legal-texts/official-journal/2022/etc/se2/p1.html)  
