@@ -227,7 +227,7 @@ Tenor uploads might take some time before approved.
 For a quick upload of .gif imgur can be used.  
 https://imgur.com/
 
-### All about patents [Europe]
+### 📰 All about patents [Europe]
 * [What you need to know about Copyright, Patents, Trademarks and Open Source!](https://www.youtube.com/watch?t=723&v=61lgkb9BC54&feature=youtu.be)  
 * ["Intellectual Property Basics: Understanding Patents, Trademarks, Copyrights and Trade Secrets"](https://www.youtube.com/watch?v=1viuhVp8Ugk)
   
