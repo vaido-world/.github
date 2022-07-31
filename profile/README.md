@@ -13,6 +13,7 @@ These are my open personal notes.
 | Useful software                 |                                                                                   |
 |---------------------------------|-----------------------------------------------------------------------------------|
 | ![image](https://user-images.githubusercontent.com/21064622/174436342-7e318322-3140-4574-b667-12dd19dc5d33.png) https://hovancik.net/stretchly/ | cross-platform app that reminds you to take breaks when working on your computer. |
+| https://github.com/rustdesk/rustdesk/releases/tag/1.1.9 | [Open Source alternative to TeamViewer](https://www.youtube.com/watch?v=JIAdEGX_sIU) |
 |                                 |                                                                                   |
 
 |  Useless software  |                                                                                               |
