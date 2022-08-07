@@ -294,3 +294,5 @@ Related quality content:
   
 * > suppose most monolingual english speakers will use a combination of thesaurus + glossaries + word lists to achieve their goal
 [^1]: Found it in a research paper which cited this guy (azeri  / born in ussr) https://www.uwrf.edu/FacultyStaff/5603181.cfm 
+  
+https://discord.com/channels/930257775462842378/997933109402161153/1005538500122255361
