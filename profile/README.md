@@ -289,8 +289,8 @@ Related quality content:
 > 2. The Systematic Dictionary of English, vol. 3, Adverbs. Baku: Elm, 1983
 > 3. Roget's Thesaurus of English Words and Phrases by Peter Mark Roget https://www.gutenberg.org/ebooks/10681
   
-* https://www.collinsdictionary.com/  
-* Natural Language Searching in Onomasiological Dictionaries https://aclanthology.org/W08-1905.pdf
+ https://www.collinsdictionary.com/   
+ Natural Language Searching in Onomasiological Dictionaries https://aclanthology.org/W08-1905.pdf  
   
 * > suppose most monolingual english speakers will use a combination of thesaurus + glossaries + word lists to achieve their goal
 [^1]: Found it in a research paper which cited this guy (azeri  / born in ussr) https://www.uwrf.edu/FacultyStaff/5603181.cfm 
