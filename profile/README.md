@@ -296,3 +296,6 @@ Related quality content:
 [^1]: Found it in a research paper which cited this guy (azeri  / born in ussr) https://www.uwrf.edu/FacultyStaff/5603181.cfm 
   
 https://discord.com/channels/930257775462842378/997933109402161153/1005538500122255361
+
+### Latest GOG M&B Bannerlord patch/update version
+https://www.gogdb.org/product/1564781494#builds
