@@ -12,11 +12,12 @@ https://github.com/orgs/vaido-world/discussions
 ---
 
 
+
 | Useful software                 |                                                                                   |
 |---------------------------------|-----------------------------------------------------------------------------------|
 | ![image](https://user-images.githubusercontent.com/21064622/174436342-7e318322-3140-4574-b667-12dd19dc5d33.png) https://hovancik.net/stretchly/ | cross-platform app that reminds you to take breaks when working on your computer. |
 | <img src="https://user-images.githubusercontent.com/21064622/182032990-e10d111b-2af7-4dad-ab92-7272ce120625.png" width="20" height="20"> [https://github.com/rustdesk/rustdesk/](https://github.com/rustdesk/rustdesk/releases/tag/1.1.9) | [Open Source alternative to TeamViewer](https://www.youtube.com/watch?v=JIAdEGX_sIU) |
-|  https://github.com/olive-editor/olive/   |  Free open-source cross-platform non-linear video editor |
+|   <img src="https://user-images.githubusercontent.com/21064622/183279827-8878615c-0999-4cdd-8ae3-4586cf13c1e0.png" width="20" height="20"> [https://github.com/olive-editor/olive/](https://github.com/olive-editor/olive/releases)  |  Free open-source cross-platform non-linear video editor |
 |                                 |                                                                                   |
 
 |  Useless software  |                                                                                               |
