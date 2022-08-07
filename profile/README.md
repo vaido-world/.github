@@ -287,9 +287,10 @@ Also known as [onomasiological dictionary](https://www.christianlehmann.eu/ling/
 Related quality content:  
 * > 1. Vladimir Pavlov is a co-author of The Systematic Dictionary of English, vol. 3, Adverbs. Baku  
   > 2. The Systematic Dictionary of English, vol. 3, Adverbs. Baku: Elm, 1983
+* https://www.gutenberg.org/ebooks/10681)
+  
 * https://www.collinsdictionary.com/  
 * https://aclanthology.org/W08-1905.pdf
-* https://www.gutenberg.org/files/10681/10681-h/10681-h.htm
-* https://www.gutenberg.org/ebooks/10681)
+
 * > suppose most monolingual english speakers will use a combination of thesaurus + glossaries + word lists to achieve their goal
 [^1]: Found it in a research paper which cited this guy (azeri  / born in ussr) https://www.uwrf.edu/FacultyStaff/5603181.cfm 
