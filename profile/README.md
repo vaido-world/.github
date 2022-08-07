@@ -20,6 +20,8 @@ https://github.com/orgs/vaido-world/discussions
 |   <img src="https://user-images.githubusercontent.com/21064622/183279827-8878615c-0999-4cdd-8ae3-4586cf13c1e0.png" width="20" height="20"> [https://github.com/olive-editor/olive/](https://github.com/olive-editor/olive/releases)  |  Free open-source cross-platform non-linear video editor |
 |                                 |                                                                                   |
 
+More software can be found in https://github.com/vaido-world/Global-Redesign-Institute
+
 |  Useless software  |                                                                                               |
 |:------------------:|:---------------------------------------------------------------------------------------------:|
 | Visual Studio Code | Won't use it again. Frontend is browser-like. Written in JavaScript using Electron framework. |
