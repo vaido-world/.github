@@ -1,5 +1,7 @@
 [![image](https://user-images.githubusercontent.com/21064622/174438868-c34b9f4d-909d-4956-85cf-6c6270e61543.png)](#)
-
+<p align="center">
+These are my open personal notes.
+</p>
 
 ## Welcome to Vaido World
 
@@ -8,7 +10,7 @@ You can contact me or start a discussion on any topic here:
 https://github.com/orgs/vaido-world/discussions
 
 ---
-These are my open personal notes.
+
 
 | Useful software                 |                                                                                   |
 |---------------------------------|-----------------------------------------------------------------------------------|
