@@ -277,3 +277,11 @@ https://forum.tzm.community/t/our-responsibility-to-the-community/22132
     </details>    
 ### File Types That Are Secretly Just .Zip Files In Disguise
   https://www.youtube.com/watch?v=xGXTy_mwQZY
+
+### English Systemic Dictionary
+Also known as [onomasiological dictionary](https://www.christianlehmann.eu/ling/ling_meth/ling_description/lexicography/onomas_dictionary.html).
+
+[Lithuanian version](https://ekalba.lt/sisteminis-lietuviu-kalbos-zodynas/apie/SIS%20%C5%BDodyno%20sandara)
+
+Related quality links:  
+https://www.collinsdictionary.com/
