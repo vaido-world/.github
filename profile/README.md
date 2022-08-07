@@ -281,6 +281,7 @@ https://forum.tzm.community/t/our-responsibility-to-the-community/22132
 ### English Systemic Dictionary
 Also known as [onomasiological dictionary](https://www.christianlehmann.eu/ling/ling_meth/ling_description/lexicography/onomas_dictionary.html).
 
+
 [Lithuanian version](https://ekalba.lt/sisteminis-lietuviu-kalbos-zodynas/apie/SIS%20%C5%BDodyno%20sandara)
 
 Related quality content:  
@@ -291,3 +292,4 @@ Related quality content:
 * https://www.gutenberg.org/files/10681/10681-h/10681-h.htm
 * https://www.gutenberg.org/ebooks/10681)
 * > suppose most monolingual english speakers will use a combination of thesaurus + glossaries + word lists to achieve their goal
+* > Found it in a research paper which cited this guy (azeri  / born in ussr) https://www.uwrf.edu/FacultyStaff/5603181.cfm 
