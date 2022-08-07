@@ -285,9 +285,9 @@ Also known as [onomasiological dictionary](https://www.christianlehmann.eu/ling/
 [Lithuanian version](https://ekalba.lt/sisteminis-lietuviu-kalbos-zodynas/apie/SIS%20%C5%BDodyno%20sandara)
 
 Related quality content:  
-* > 1. Vladimir Pavlov is a co-author of The Systematic Dictionary of English, vol. 3, Adverbs. Baku  
-  > 2. The Systematic Dictionary of English, vol. 3, Adverbs. Baku: Elm, 1983
-  > 3. Roget's Thesaurus of English Words and Phrases by Peter Mark Roget https://www.gutenberg.org/ebooks/10681
+> 1. Vladimir Pavlov is a co-author of The Systematic Dictionary of English, vol. 3, Adverbs. Baku  
+> 2. The Systematic Dictionary of English, vol. 3, Adverbs. Baku: Elm, 1983
+> 3. Roget's Thesaurus of English Words and Phrases by Peter Mark Roget https://www.gutenberg.org/ebooks/10681
   
 * https://www.collinsdictionary.com/  
 * Natural Language Searching in Onomasiological Dictionaries https://aclanthology.org/W08-1905.pdf
