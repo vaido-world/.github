@@ -300,4 +300,6 @@ https://discord.com/channels/930257775462842378/997933109402161153/1005538500122
   ---
   
 ### Latest GOG M&B Bannerlord patch/update version
-https://www.gogdb.org/product/1564781494#builds
+https://www.gogdb.org/product/1564781494#builds  
+Version Range of patching binaries.  
+https://www.gogdb.org/product/1564781494#downloads  
