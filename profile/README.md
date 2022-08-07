@@ -283,5 +283,6 @@ Also known as [onomasiological dictionary](https://www.christianlehmann.eu/ling/
 
 [Lithuanian version](https://ekalba.lt/sisteminis-lietuviu-kalbos-zodynas/apie/SIS%20%C5%BDodyno%20sandara)
 
-Related quality links:  
-https://www.collinsdictionary.com/
+Related quality content:  
+* https://www.collinsdictionary.com/  
+* > Vladimir Pavlov is a co-author of The Systematic Dictionary of English, vol. 3, Adverbs. Baku  
