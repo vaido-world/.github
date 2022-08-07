@@ -287,7 +287,7 @@ Also known as [onomasiological dictionary](https://www.christianlehmann.eu/ling/
 Related quality content:  
 * > 1. Vladimir Pavlov is a co-author of The Systematic Dictionary of English, vol. 3, Adverbs. Baku  
   > 2. The Systematic Dictionary of English, vol. 3, Adverbs. Baku: Elm, 1983
-* https://www.gutenberg.org/ebooks/10681)
+  > 3. Roget's Thesaurus of English Words and Phrases by Peter Mark Roget https://www.gutenberg.org/ebooks/10681
   
 * https://www.collinsdictionary.com/  
 * https://aclanthology.org/W08-1905.pdf
