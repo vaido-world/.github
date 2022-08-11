@@ -303,3 +303,6 @@ https://discord.com/channels/930257775462842378/997933109402161153/1005538500122
 https://www.gogdb.org/product/1564781494#builds  
 Version Range of patching binaries.  
 https://www.gogdb.org/product/1564781494#downloads  
+
+### Query Search for M&B Bannerlord Mods
+[Google](https://www.google.com/search?q=village+site%3Ahttps%3A%2F%2Fwww.moddb.com%2Fmods%2F+OR+site%3Ahttps%3A%2F%2Fwww.nexusmods.com%2Fmountandblade2bannerlord%2Fmods%2F&sxsrf=ALiCzsYMylvEZnODusp6mCNAzCrKhc2W2Q%3A1660215479604&ei=t-D0Yv6vJJWarwS3nYToCA&ved=0ahUKEwi-56XP0L75AhUVzYsKHbcOAY0Q4dUDCA4&oq=village+site%3Ahttps%3A%2F%2Fwww.moddb.com%2Fmods%2F+OR+site%3Ahttps%3A%2F%2Fwww.nexusmods.com%2Fmountandblade2bannerlord%2Fmods%2F&gs_lcp=Cgdnd3Mtd2l6EAxKBAhBGAFKBAhGGABQAFgAYNc0aAFwAHgAgAEAiAEAkgEAmAEAwAEB&sclient=gws-wiz)
