@@ -212,11 +212,12 @@ ext:.jpeg OR ext:.jpg -folder:"Desktop\*"
 ext:.ove -folder:"Desktop\*"
 ext:.xcf -folder:"Desktop\*"
 ```
-Search protocol link example
-`search-ms:query=testfilename -folder:"Desktop\*"foldername:Desktop`  
-[Search files in Desktop](https://tinyurl.com/267vk82f)
+Search protocol link example  
+`search-ms:query=testfilename -folder:"Desktop\*"foldername:Desktop`    
+`search-ms:query=testfilename -folder:*.* "Desktop\*"foldername:Desktop`    
+[Search files in Desktop](https://tinyurl.com/267vk82f)   
   
-More examples
+More examples  
   `search-ms:displayname=Resultados%20de%20la%20b%C3%BAsqueda%20en%20fotos&crumb=extensi%C3%B3ndearchivo%3A~<*.jpg&crumb=location:C%3A%5Cwindows`  
   `search-ms:query=seattle&crumb=folder:C:\MyFolder&` 
 https://stackoverflow.com/questions/95432/how-do-i-open-find-files-dialog-from-command-line-in-windows-xp-to-search-a-sp/7509943#7509943  
