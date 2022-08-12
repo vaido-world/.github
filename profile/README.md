@@ -215,7 +215,7 @@ ext:.xcf -folder:"Desktop\*"
 Search protocol link example  
 `search-ms:query=testfilename -folder:"Desktop\*" foldername:Desktop`    
 `search-ms:query=*.* -folder:"Desktop\*" foldername:Desktop`    
-[Search files in Desktop](https://tinyurl.com/267vk82f)   
+[Search files in Desktop](https://tinyurl.com/267vk82f)   Search in.  
   
 More examples  
   `search-ms:displayname=Resultados%20de%20la%20b%C3%BAsqueda%20en%20fotos&crumb=extensi%C3%B3ndearchivo%3A~<*.jpg&crumb=location:C%3A%5Cwindows`  
