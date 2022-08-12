@@ -212,7 +212,9 @@ ext:.jpeg OR ext:.jpg -folder:"Desktop\*"
 ext:.ove -folder:"Desktop\*"
 ext:.xcf -folder:"Desktop\*"
 ```
-
+Search protocol link example
+`search-ms:query=testfilename -folder:"Desktop\*"foldername:Desktop`
+[Search files in Desktop](search-ms:query=testfilename -folder:"Desktop\*"foldername:Desktop)
 ### ⬇️🎥 Download Public Domain and Creative Commons Videos
 
 * TamperMonkey Chrome Extension and Userscript
