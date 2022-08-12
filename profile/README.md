@@ -213,8 +213,8 @@ ext:.ove -folder:"Desktop\*"
 ext:.xcf -folder:"Desktop\*"
 ```
 Search protocol link example
-`search-ms:query=testfilename -folder:"Desktop\*"foldername:Desktop`
-[Search files in Desktop](search-ms:query=testfilename -folder:"Desktop\*"foldername:Desktop)
+`search-ms:query=testfilename -folder:"Desktop\*"foldername:Desktop`  
+[Search files in Desktop](https://tinyurl.com/3ypxdthh)  
 ### ⬇️🎥 Download Public Domain and Creative Commons Videos
 
 * TamperMonkey Chrome Extension and Userscript
