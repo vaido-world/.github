@@ -213,8 +213,8 @@ ext:.ove -folder:"Desktop\*"
 ext:.xcf -folder:"Desktop\*"
 ```
 Search protocol link example  
-`search-ms:query=testfilename -folder:"Desktop\*"foldername:Desktop`    
-`search-ms:query=testfilename -folder:*.* "Desktop\*"foldername:Desktop`    
+`search-ms:query=testfilename -folder:"Desktop\*" foldername:Desktop`    
+`search-ms:query=*.* -folder:"Desktop\*" foldername:Desktop`    
 [Search files in Desktop](https://tinyurl.com/267vk82f)   
   
 More examples  
