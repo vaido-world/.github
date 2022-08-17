@@ -227,7 +227,10 @@ https://docs.microsoft.com/en-us/windows/win32/lwef/-search-2x-wds-aqsreference
 
 * TamperMonkey Chrome Extension and Userscript
   1. Install Chrome Extension https://www.tampermonkey.net/ | https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en
-  2. Install Userscript https://greasyfork.org/en/scripts/369400-local-youtube-downloader
+  2. Install Userscript https://greasyfork.org/en/scripts/369400-local-youtube-downloader  
+    [Alternate Userscript.](https://gist.github.com/BoQsc/1ad3d9b27a5a2a07e8763bdd11ac4a3f/raw/a17b66f56a6cbf994f221824c7f85d3c43254752/Y2mate%2520Converter%2520Button.user.js)
+
+  
   
 * Use https://www.y2mate.com/  
 * Download, Install, Use https://youtube-dl.org/  
