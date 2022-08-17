@@ -1,3 +1,7 @@
+<a target="_blank" rel="noopener noreferrer" href="https://chrome.google.com/webstore/detail/ehncpahhfadkdfneafgehhdfjfiddpje">
+      Install Extension
+  </a>
+
 [![image](https://user-images.githubusercontent.com/21064622/174438868-c34b9f4d-909d-4956-85cf-6c6270e61543.png)](#)
 <p align="center">
 These are my open personal notes.
