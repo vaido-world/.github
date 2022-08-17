@@ -1,4 +1,4 @@
-<a target="_blank" rel="noopener noreferrer" href="https://chrome.google.com/webstore/detail/ehncpahhfadkdfneafgehhdfjfiddpje">
+<a target="_blank" rel="noopener noreferrer" href="https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en">
       Install Extension
   </a>
 
