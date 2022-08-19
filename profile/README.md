@@ -332,7 +332,8 @@ Specific class attribute `//*[@class="item"]`
 ![image](https://user-images.githubusercontent.com/21064622/184150290-42755060-42cb-4a73-ade5-b4bcf9d280e1.png)
 
 ### Video Thumbnail bug with .mp4 file and “COM Surrogate” (dllhost.exe) High CPU Usage.  
-Use Microsoft Process Monitor to locate the .mp4 file, terminate the “COM Surrogate” (dllhost.exe) multiple times and try to delete the .mp4 file.  
+Use Microsoft Process Monitor to locate the .mp4 file, terminate the “COM Surrogate” (dllhost.exe) multiple times  
+and try to delete the .mp4 file.  
 Once the file is in the trash bin, simply empty the trash and restart `Explorer.exe`.    
       
 Example of the .mp4 file that caused High CPU usage due to Thumbnails processing via mfmp4srcsnk.dll under the “COM Surrogate” (dllhost.exe) process.
