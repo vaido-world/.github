@@ -338,6 +338,8 @@ Once the file is in the trash bin, simply empty the trash and restart `Explorer.
       
 Example of the .mp4 file that caused High CPU usage due to Thumbnails processing via mfmp4srcsnk.dll under the “COM Surrogate” (dllhost.exe) process.
 `video_a1feef30b3d8eb5ed7f7e70e1d158d42.mp4`
+      
+Exit explorer.exe and use cmd to `del ".\Desktop\video_a1feef30b3d8eb5ed7f7e70e1d158d42.mp4"`
 
 https://superuser.com/questions/548685/how-to-deal-with-a-misbehaving-dllhost-exe
 
