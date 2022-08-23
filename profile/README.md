@@ -346,3 +346,5 @@ Exit explorer.exe and use cmd to `del ".\Desktop\video_a1feef30b3d8eb5ed7f7e70e1
 
 https://superuser.com/questions/548685/how-to-deal-with-a-misbehaving-dllhost-exe
 
+### Operating systems written in D language on Github
+https://github.com/topics/operating-system?l=d
