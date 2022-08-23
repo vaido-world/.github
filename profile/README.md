@@ -27,6 +27,8 @@ https://github.com/orgs/vaido-world/discussions
 <!--|                                 |                                                                                   |-->
 [OS_Android]: https://user-images.githubusercontent.com/21064622/185875388-ff58395f-b59a-45af-94dd-989f21a762dd.png
 
+[Some userscripts by me](https://gist.github.com/search?q=%22%3D%3DUserScript%3D%3D%22+user%3Aboqsc&ref=searchresults)
+
 More software can be found in https://github.com/vaido-world/Global-Redesign-Institute
 
 |  Useless software  |                                                                                               |
