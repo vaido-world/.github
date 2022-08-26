@@ -351,3 +351,7 @@ https://superuser.com/questions/548685/how-to-deal-with-a-misbehaving-dllhost-ex
 
 ### Operating systems written in D language on Github
 https://github.com/topics/operating-system?l=d
+
+
+### Writing a Shell for Windows NT Kernel via Win32
+https://idafchev.github.io/exploit/2017/09/26/writing_windows_shellcode.html
