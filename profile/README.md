@@ -213,6 +213,7 @@ C#, Java, D Language. Some pure JavaScript.
 ### Search for files in the same folder on Windows 10 using File Explorer
 [`search-ms:query=ext:gif -folder:"Desktop\*" foldername:Desktop`](https://tinyurl.com/3p3ar64j)  
 [`search-ms:query=ext:webp -folder:"Desktop\*" foldername:Desktop`](https://tinyurl.com/5n72c523)  
+[`search-ms:query=ext:webm -folder:"Desktop\*" foldername:Desktop`](https://tinyurl.com/ykm9y7sn)  
 [`search-ms:query=ext:svg -folder:"Desktop\*" foldername:Desktop`](https://tinyurl.com/44b8amtz)  
 [`search-ms:query=ext:ove -folder:"Desktop\*" foldername:Desktop`](https://tinyurl.com/yje5s36k)  
 [`search-ms:query=ext:mp4 -folder:"Desktop\*" foldername:Desktop`](https://tinyurl.com/3ph8shr6)  
@@ -224,6 +225,7 @@ C#, Java, D Language. Some pure JavaScript.
 ```
 ext:.gif -folder:"Desktop\*"
 ext:.webp -folder:"Desktop\*"
+ext:.webm -folder:"Desktop\*"
 ext:.svg -folder:"Desktop\*"
 ext:.ove -folder:"Desktop\*"
 ext:.mp4 -folder:"Desktop\*"
