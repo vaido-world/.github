@@ -212,8 +212,14 @@ C#, Java, D Language. Some pure JavaScript.
 
 ### Search in the same folder on Windows 10 using File Explorer
 [`search-ms:query=ext:gif -folder:"Desktop\*" foldername:Desktop`](https://tinyurl.com/3p3ar64j)  
+[`search-ms:query=ext:webp -folder:"Desktop\*" foldername:Desktop`](https://tinyurl.com/5n72c523)  
+[`search-ms:query=ext:svg -folder:"Desktop\*" foldername:Desktop`](https://tinyurl.com/44b8amtz)  
+[`search-ms:query=ext:ove -folder:"Desktop\*" foldername:Desktop`](https://tinyurl.com/yje5s36k)  
+[`search-ms:query=ext:mp4 -folder:"Desktop\*" foldername:Desktop`](https://tinyurl.com/3ph8shr6)  
+[`search-ms:query=ext:png -folder:"Desktop\*" foldername:Desktop`](https://tinyurl.com/3wj88pwv)  
+[`search-ms:query=ext:jpeg OR ext:jpg -folder:"Desktop\*" foldername:Desktop`](https://tinyurl.com/23d7yh6z)  
+[`search-ms:query=ext:xcf -folder:"Desktop\*" foldername:Desktop`](https://tinyurl.com/4h7tazn3)  
 
-      
       
 ```
 ext:.gif -folder:"Desktop\*"
@@ -223,7 +229,6 @@ ext:.ove -folder:"Desktop\*"
 ext:.mp4 -folder:"Desktop\*"
 ext:.png -folder:"Desktop\*"
 ext:.jpeg OR ext:.jpg -folder:"Desktop\*"
-ext:.ove -folder:"Desktop\*"
 ext:.xcf -folder:"Desktop\*"
 ```
 Search protocol link example  
