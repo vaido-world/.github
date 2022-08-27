@@ -211,6 +211,10 @@ https://www.swedbank.com/about-swedbank/organisation/our-markets.html
 C#, Java, D Language. Some pure JavaScript.
 
 ### Search in the same folder on Windows 10 using File Explorer
+[`search-ms:query=ext:gif -folder:"Desktop\*" foldername:Desktop`](https://tinyurl.com/3p3ar64j)  
+
+      
+      
 ```
 ext:.gif -folder:"Desktop\*"
 ext:.webp -folder:"Desktop\*"
