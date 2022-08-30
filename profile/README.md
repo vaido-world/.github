@@ -372,13 +372,13 @@ https://idafchev.github.io/exploit/2017/09/26/writing_windows_shellcode.html
       
       
 Checksum check on Linux
-```
-      screen
-      sha256sum archive2.7z
       
-
 ```
-      Checksum check on Windows
+screen
+sha256sum archive2.7z
+```
+Checksum check on Windows
+      
 ```
 PS C:\Users\Windows10\Desktop\y2dpl> Get-FileHash -Path .\archive2.7z
 
