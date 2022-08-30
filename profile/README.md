@@ -367,3 +367,24 @@ https://github.com/topics/operating-system?l=d
 
 ### Writing a Shell for Windows NT Kernel via Win32
 https://idafchev.github.io/exploit/2017/09/26/writing_windows_shellcode.html
+
+### Journey of Windows and Linux files transfer
+      
+      
+Checksum check on Linux
+```
+      screen
+      sha256sum archive2.7z
+      
+
+```
+      Checksum check on Windows
+```
+PS C:\Users\Windows10\Desktop\y2dpl> Get-FileHash -Path .\archive2.7z
+
+Algorithm       Hash                                                                   Path
+---------       ----                                                                   ----
+SHA256          C15579B7D9B9871BE1CDD8254B1654A1904788EB52E77F61864E754284468472       C:\Users\Windows10\Desktop\y2...
+
+
+```
