@@ -15,7 +15,6 @@ https://github.com/orgs/vaido-world/discussions
 
 ---
 
-
 | Useful software                 |                                                                                   |
 |---------------------------------|-----------------------------------------------------------------------------------|
 | ![image](https://user-images.githubusercontent.com/21064622/174436342-7e318322-3140-4574-b667-12dd19dc5d33.png) https://hovancik.net/stretchly/ | cross-platform app that reminds you to take breaks when working on your computer. |
@@ -38,7 +37,7 @@ More software can be found in https://github.com/vaido-world/Global-Redesign-Ins
 | winscp             | Failed to transfer a large archive file, no logging is enabled by default, no idea what happened |
 |                    |                                                                                               |
 
-
+[winscp corrupts files](https://user-images.githubusercontent.com/21064622/187369675-34034fa9-c31e-48b5-bb6c-6f2fecae3ba6.png)
 
 
 
