@@ -35,6 +35,7 @@ More software can be found in https://github.com/vaido-world/Global-Redesign-Ins
 |  Useless software  |                                                                                               |
 |:------------------:|:---------------------------------------------------------------------------------------------:|
 | Visual Studio Code | Won't use it again. Frontend is browser-like. Written in JavaScript using Electron framework. |
+| winscp             | Failed to transfer a large archive file, no logging is enabled by default, no idea what happened |
 |                    |                                                                                               |
 
 
