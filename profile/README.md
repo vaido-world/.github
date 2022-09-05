@@ -175,6 +175,9 @@ https://ec.europa.eu/eures/portal/jv-se/search?page=1&resultsPerPage=50&orderBy=
 Python:  
 https://ec.europa.eu/eures/portal/jv-se/search?page=1&resultsPerPage=50&orderBy=BEST_MATCH&keywordsEverywhere=python&positionScheduleCodes=fulltime&availableLanguages=en&positionOfferingCodes=directhire&euresFlagCodes=WITH&publicationPeriod=LAST_WEEK
 
+Python: with Unspecified eductionand experience.  
+https://ec.europa.eu/eures/portal/jv-se/search?page=1&resultsPerPage=50&orderBy=MOST_RECENT&keywordsEverywhere=python&experience=NS&positionScheduleCodes=fulltime&availableLanguages=en&educationLevel=NS&positionOfferingCodes=directhire&euresFlagCodes=WITHOUT&publicationPeriod=LAST_WEEK
+      
 JavaScript:  
 https://ec.europa.eu/eures/portal/jv-se/search?page=1&resultsPerPage=50&orderBy=BEST_MATCH&keywordsEverywhere=javascript&positionScheduleCodes=fulltime&availableLanguages=en&positionOfferingCodes=directhire&euresFlagCodes=WITH&publicationPeriod=LAST_WEEK
 
