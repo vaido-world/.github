@@ -408,4 +408,6 @@ Physical location: Central Europe
 Culturally: Eastern Europe  
 
 ### American accent is better understood universally  
-https://youtube.com/clip/UgkxZDfj_NqWx8doRsyXLLv3izORUYE3_s8k
+https://youtube.com/clip/UgkxZDfj_NqWx8doRsyXLLv3izORUYE3_s8k  
+
+https://en.wikipedia.org/wiki/General_American_English  
