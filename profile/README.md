@@ -406,3 +406,6 @@ https://www.youtube.com/watch?v=BUtYH6mpNJE
 Politically Northen Europe  
 Physical location: Central Europe  
 Culturally: Eastern Europe  
+
+### American accent is better understood universally  
+https://youtube.com/clip/UgkxZDfj_NqWx8doRsyXLLv3izORUYE3_s8k
