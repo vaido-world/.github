@@ -411,3 +411,5 @@ Culturally: Eastern Europe
 https://youtube.com/clip/UgkxZDfj_NqWx8doRsyXLLv3izORUYE3_s8k  
 
 https://en.wikipedia.org/wiki/General_American_English  
+      
+https://commons.wikimedia.org/wiki/File:A_new_short-hand_grammar,_containing_a_general_rule,_for_writing_any_language,_whether_English,_Latin,_French,_etc_Fleuron_T112099-19.png  
