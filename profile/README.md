@@ -35,8 +35,9 @@ More software can be found in https://github.com/vaido-world/Global-Redesign-Ins
 |:------------------:|:---------------------------------------------------------------------------------------------:|
 | Visual Studio Code | Won't use it again. Frontend is browser-like. Written in JavaScript using Electron framework. |
 | winscp             | Failed to transfer a large archive file, no logging is enabled by default, no idea what happened |
+| CLion by JetBrains | <li>Requires sign up for free trial,</li> <li>3gb in size, valgrind requires WSL,</li> <li>same functionality as VS CODE (that is free), <li>feels incomplete overall</li> <li>Does not feel performant</li> <li>In development for 7 years, and still nothing.</li> |
 |                    |                                                                                               |
-
+      
 [winscp corrupts files](https://user-images.githubusercontent.com/21064622/187369675-34034fa9-c31e-48b5-bb6c-6f2fecae3ba6.png)
 
 
