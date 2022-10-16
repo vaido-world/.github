@@ -27,15 +27,13 @@ https://github.com/orgs/vaido-world/discussions
 <!--| <img src="" width="20" height="20"> []() |                                                                                   | -->
 <!--|                                 |                                                                                   |-->
 
-
-
-
 [OS_Android]: https://user-images.githubusercontent.com/21064622/185875388-ff58395f-b59a-45af-94dd-989f21a762dd.png
 
+More software can be found in https://github.com/vaido-world/Global-Redesign-Institute
 
 [Someones GreaseMonkey Scripts collection](https://arantius.com/misc/greasemonkey/)  
 
-More software can be found in https://github.com/vaido-world/Global-Redesign-Institute
+
 
 |  Useless software  |                                                                                               |
 |:------------------:|:---------------------------------------------------------------------------------------------:|
