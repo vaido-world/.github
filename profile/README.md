@@ -274,6 +274,7 @@ https://docs.microsoft.com/en-us/windows/win32/lwef/-search-2x-wds-aqsreference
   
 * Use https://www.y2mate.com/  
 * Download, Install, Use https://youtube-dl.org/  
+  * Use a better fork of youtube-dl for faster downloads https://github.com/yt-dlp/yt-dlp
 
 ### TinyURL generator
 Can be used to share magnet links. `magnet:`  
