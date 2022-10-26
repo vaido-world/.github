@@ -197,6 +197,17 @@ https://ec.europa.eu/eures/portal/jv-se/home?pageCode=find_a_job
 > #OpportunityDays Norway - Sweden online #jobfair event is the perfect place for #jobseekers to browse available opportunities, find financial support, explore housing and living circumstances, and so much more. 
 https://europeanjobdays.eu/en/event/mulighetsdager-norge-sverige-08-september-2022?fbclid=IwAR1TraWhf7KCd55LXIHJ-D2oErizl7RLXxhOMO_SHP0_AIy6t8sqqpbfkC0
 
+# Swedbank identification [eIDs]
+Sweden, Norway use **BankID***  
+https://www.nets.eu/developer/e-ident/eids/Pages/BankIDSE.aspx  
+https://www.nets.eu/developer/e-ident/eids/Pages/BankIDNO.aspx
+
+**Smart-ID** is available in Estonia, Latvia and Lithuania using the Smart-ID app.  
+https://www.nets.eu/developer/e-ident/eids/Pages/smart-id.aspx
+
+All other eIDs  (Electronic identification)
+https://www.nets.eu/developer/e-ident/eids/Pages/default.aspx  
+
 ## 💼 The rest of unsorted stuff
 
 ### Domain Management Notes
