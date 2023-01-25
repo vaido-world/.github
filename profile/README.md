@@ -209,7 +209,12 @@ https://www.nets.eu/developer/e-ident/eids/Pages/BankIDNO.aspx
 https://www.nets.eu/developer/e-ident/eids/Pages/smart-id.aspx
 
 All other eIDs  (Electronic identification)
-https://www.nets.eu/developer/e-ident/eids/Pages/default.aspx  
+https://www.nets.eu/developer/e-ident/eids/Pages/default.aspx 
+
+### NEW Created a account of EURES Jobseeker and completed a custom CV.
+> Your CV is currently published in English and will be accessible to employers until 26/07/2023(extend)
+
+https://ec.europa.eu/eures/eures-apps/cvo/page/cv
 
 ## 💼 The rest of unsorted stuff
 
