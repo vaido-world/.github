@@ -214,7 +214,8 @@ https://www.nets.eu/developer/e-ident/eids/Pages/default.aspx
 ### NEW Created a account of EURES Jobseeker and completed a custom CV.
 > Your CV is currently published in English and will be accessible to employers until 26/07/2023(extend)
 
-https://ec.europa.eu/eures/eures-apps/cvo/page/cv
+Edit CV: https://ec.europa.eu/eures/eures-apps/cvo/page/cv  
+Jobs matching your CV: https://ec.europa.eu/eures/eures-apps/searchengine/page/main?lang=en&app=2.13.1-build-0#/me  
 
 ## 💼 The rest of unsorted stuff
 
