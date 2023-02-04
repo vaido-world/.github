@@ -68,7 +68,7 @@ graph TD
 
 ### [🕵🏼 Personal GitHub](https://github.com/BoQsc)
 
-### [🗜 Virtual Private Server](https://github.com/vaido-world/Virtual-Private-Server)
+### [🗜 Virtual Private Server (VPS)](https://github.com/vaido-world/Virtual-Private-Server)
 
 ### [🚵🏽‍♂️ About living in EU](https://europa.eu/youreurope/index_en.htm)
 [[Traditional regions of Europe]](https://saylordotorg.github.io/text_world-regional-geography-people-places-and-globalization/s05-04-regions-of-western-europe.html)
