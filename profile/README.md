@@ -24,6 +24,7 @@ https://github.com/orgs/vaido-world/discussions
 | <img src="https://user-images.githubusercontent.com/21064622/197853860-854c86eb-abff-41fb-8d59-87045440f4f9.png" width="20" height="20">[https://github.com/kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) | A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.   | 
 | <img src="https://user-images.githubusercontent.com/21064622/202433373-5f44722f-5878-41cc-9768-1c4005461c71.png" width="20" height="20">  [https://github.com/revoltchat](https://github.com/revoltchat) | Open Source alternative chat platform to Discord.  | 
 | <img src="https://user-images.githubusercontent.com/21064622/202871439-b18db09e-5159-413d-a0ae-94e8a33b4a45.png" width="20" height="20"> [https://github.com/misskey-dev/misskey](https://github.com/misskey-dev/misskey) |  An open source, decentralized social media platform that's free forever!  <br> • Notable instances: https://miruku.cafe/|
+| <img src="https://user-images.githubusercontent.com/21064622/230949592-90f7239d-5b3d-439c-879b-6956360eef32.png" width="20" height="20"> [https://github.com/steven-tey/dub](https://github.com/steven-tey/dub) | Open-source link management tool to create, share, and track short links.  | 
 <!--| <img src="" width="20" height="20"> []() |                                                                                   | -->
 <!--|                                 |                                                                                   |-->
 
