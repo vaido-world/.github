@@ -262,6 +262,8 @@ C#, Java, D Language. Some pure JavaScript.
 [`search-ms:query=ext:jpeg OR ext:jpg -folder:"Desktop\*" foldername:Desktop`](https://tinyurl.com/23d7yh6z)  
 [`search-ms:query=ext:xcf -folder:"Desktop\*" foldername:Desktop`](https://tinyurl.com/4h7tazn3)  
 
+`-folder:"Desktop\*" foldername:Desktop kind:folder revolt`
+
       
 ```
 ext:.gif -folder:"Desktop\*"
