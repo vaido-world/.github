@@ -432,6 +432,7 @@ SHA256          C15579B7D9B9871BE1CDD8254B1654A1904788EB52E77F61864E754284468472
 
 
 ```
+     
 
 
 ### Lithuania  
@@ -446,3 +447,12 @@ https://youtube.com/clip/UgkxZDfj_NqWx8doRsyXLLv3izORUYE3_s8k
 https://en.wikipedia.org/wiki/General_American_English  
       
 https://commons.wikimedia.org/wiki/File:A_new_short-hand_grammar,_containing_a_general_rule,_for_writing_any_language,_whether_English,_Latin,_French,_etc_Fleuron_T112099-19.png  
+
+### Remove Keyboard Languages from Windows 10
+```
+$1 = Get-WinUserLanguageList
+$1.RemoveAll( { $args[0].LanguageTag -clike 'de*' } )
+Set-WinUserLanguageList $1 -Force
+```
+https://superuser.com/a/1297073  
+      
