@@ -257,6 +257,7 @@ C#, Java, D Language. Some pure JavaScript.
 [`search-ms:query=ext:webm -folder:"Desktop\*" foldername:Desktop`](https://tinyurl.com/ykm9y7sn)  
 [`search-ms:query=ext:svg -folder:"Desktop\*" foldername:Desktop`](https://tinyurl.com/44b8amtz)  
 [`search-ms:query=ext:ove -folder:"Desktop\*" foldername:Desktop`](https://tinyurl.com/yje5s36k)  
+[`search-ms:query=ext:kdenlive -folder:"Desktop\*" foldername:Desktop`](https://tinyurl.com/yc6ecmbn)  
 [`search-ms:query=ext:mp4 -folder:"Desktop\*" foldername:Desktop`](https://tinyurl.com/3ph8shr6)  
 [`search-ms:query=ext:png -folder:"Desktop\*" foldername:Desktop`](https://tinyurl.com/3wj88pwv)  
 [`search-ms:query=ext:jpeg OR ext:jpg -folder:"Desktop\*" foldername:Desktop`](https://tinyurl.com/23d7yh6z)  
